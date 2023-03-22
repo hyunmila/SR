@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_kaskada_bramek_and_behav/xsimk -simmode gui -wdb tb_kaskada_bramek_and_behav.wdb -simrunnum 0 -socket 40449
+Design successfully loaded
+Design Loading Memory Usage: 27740 KB (Peak: 27860 KB)
+Design Loading CPU Usage: 20 ms
