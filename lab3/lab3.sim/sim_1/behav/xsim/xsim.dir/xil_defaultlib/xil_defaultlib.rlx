@@ -1,9 +1,0 @@
-0.7
-2020.2
-Oct 14 2022
-05:20:55
-C:/Users/ja/Documents/SR/lab3/lab3.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
-C:/Users/ja/Documents/SR/lab3/lab3.srcs/sim_1/new/tb_maszyna_stanow.v,1679346531,verilog,,,,tb_maszyna_stanow,,,,,,,,
-C:/Users/ja/Documents/SR/lab3/lab3.srcs/sources_1/new/maszyna_stanow.v,1679353359,verilog,,C:/Users/ja/Documents/SR/lab3/lab3.srcs/sources_1/new/odczyt.v,,maszyna_stanow,,,,,,,,
-C:/Users/ja/Documents/SR/lab3/lab3.srcs/sources_1/new/odczyt.v,1679351445,verilog,,C:/Users/ja/Documents/SR/lab3/lab3.srcs/sources_1/new/zapis.v,,odczyt,,,,,,,,
-C:/Users/ja/Documents/SR/lab3/lab3.srcs/sources_1/new/zapis.v,1679351444,verilog,,C:/Users/ja/Documents/SR/lab3/lab3.srcs/sim_1/new/tb_maszyna_stanow.v,,zapis,,,,,,,,
